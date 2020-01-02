@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SQLiteDemos01</string>
+    <string name="splash_recyclerview_sqlite_and_maharaj">Splash, RecyclerView, SQLite and Maharaj</string>
+</resources>
